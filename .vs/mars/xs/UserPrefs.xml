@@ -1,0 +1,36 @@
+﻿<Properties StartupConfiguration="{D054A76A-3A0C-4BB2-B2E2-F0A1993600A2}|Unit Tests">
+  <MonoDevelop.Ide.Workbench ActiveDocument="mars/Program.cs">
+    <Files>
+      <File FileName="mars/Program.cs" Line="13" Column="26" />
+      <File FileName="mars.Core/Models/Directions.cs" Line="9" Column="9" />
+      <File FileName="mars.Core/Models/Position.cs" Line="24" Column="10" />
+      <File FileName="mars.Core/Interfaces/IPosition.cs" Line="8" Column="18" />
+      <File FileName="mars.Test/Test.cs" Line="13" Column="19" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="mars" expanded="True">
+            <Node name="mars" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="mars" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.mars PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.mars.Core PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.mars.Test PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

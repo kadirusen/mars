@@ -1,0 +1,5 @@
+/Users/krusen/Desktop/mars/mars.Core/obj/x86/Debug/mars.Core.csproj.CoreCompileInputs.cache
+/Users/krusen/Desktop/mars/mars.Core/bin/Debug/mars.Core.dll
+/Users/krusen/Desktop/mars/mars.Core/bin/Debug/mars.Core.pdb
+/Users/krusen/Desktop/mars/mars.Core/obj/x86/Debug/mars.Core.dll
+/Users/krusen/Desktop/mars/mars.Core/obj/x86/Debug/mars.Core.pdb

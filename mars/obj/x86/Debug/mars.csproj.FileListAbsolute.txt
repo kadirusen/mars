@@ -1,0 +1,9 @@
+/Users/krusen/Desktop/mars/mars/bin/Debug/mars.exe
+/Users/krusen/Desktop/mars/mars/bin/Debug/mars.pdb
+/Users/krusen/Desktop/mars/mars/bin/Debug/mars.Core.dll
+/Users/krusen/Desktop/mars/mars/bin/Debug/mars.Core.pdb
+/Users/krusen/Desktop/mars/mars/obj/x86/Debug/mars.csprojAssemblyReference.cache
+/Users/krusen/Desktop/mars/mars/obj/x86/Debug/mars.csproj.CoreCompileInputs.cache
+/Users/krusen/Desktop/mars/mars/obj/x86/Debug/mars.csproj.CopyComplete
+/Users/krusen/Desktop/mars/mars/obj/x86/Debug/mars.exe
+/Users/krusen/Desktop/mars/mars/obj/x86/Debug/mars.pdb

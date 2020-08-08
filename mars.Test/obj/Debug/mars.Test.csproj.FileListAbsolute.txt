@@ -1,0 +1,11 @@
+/Users/krusen/Desktop/mars/mars.Test/bin/Debug/mars.Test.dll
+/Users/krusen/Desktop/mars/mars.Test/bin/Debug/mars.Test.pdb
+/Users/krusen/Desktop/mars/mars.Test/bin/Debug/mars.Core.dll
+/Users/krusen/Desktop/mars/mars.Test/bin/Debug/nunit.framework.dll
+/Users/krusen/Desktop/mars/mars.Test/bin/Debug/mars.Core.pdb
+/Users/krusen/Desktop/mars/mars.Test/bin/Debug/nunit.framework.xml
+/Users/krusen/Desktop/mars/mars.Test/obj/Debug/mars.Test.csprojAssemblyReference.cache
+/Users/krusen/Desktop/mars/mars.Test/obj/Debug/mars.Test.csproj.CoreCompileInputs.cache
+/Users/krusen/Desktop/mars/mars.Test/obj/Debug/mars.Test.csproj.CopyComplete
+/Users/krusen/Desktop/mars/mars.Test/obj/Debug/mars.Test.dll
+/Users/krusen/Desktop/mars/mars.Test/obj/Debug/mars.Test.pdb
